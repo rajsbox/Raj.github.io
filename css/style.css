@@ -1,0 +1,19 @@
+body { 
+	
+	background: url(../background.jpg);
+	background-size: 1500px;
+	cursor: cell;
+}
+
+
+h1, p 	{
+ 	color: #A51818;
+ 	text-align: center;	
+ 	
+}
+
+.para {
+
+	border: 5px dashed green;
+	cursor: copy
+}
